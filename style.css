@@ -1,0 +1,48 @@
+span,#laim{
+    color: blue;
+}
+#hero{
+background: linear-gradient(rgba(0, 0, 0, 0.644),rgba(5, 5, 5, 0.418)), url(/hero.jpg) center/cover no-repeat;
+
+}
+.white{
+    background-color: whitesmoke;
+}
+#smart{
+    background-color: rgb(2, 2, 99);
+   overflow-x: hidden;
+}
+li{
+    list-style-type: none;
+
+}
+.button{
+       background-color: rgb(2, 2, 99);
+       color: white;
+}
+
+#hero1{
+background: linear-gradient(rgba(0, 0, 0, 0.644),rgba(5, 5, 5, 0.418)), url(/hero.jpg) center/cover no-repeat;
+height: 350px;
+}
+.container .card{
+    overflow: hidden;
+    border-radius: 25px;
+}
+#saad{
+  background: linear-gradient(rgba(0, 0, 0, 0.644),rgba(5, 5, 5, 0.418)), url(/porsche.jpg) center/cover no-repeat;
+height: 350px;  
+
+}
+#hero2{
+    background: linear-gradient(rgba(0, 0, 0, 0.644),rgba(5, 5, 5, 0.418)), url(/audi-Q7.jpg) center/cover no-repeat;
+height: 450px;   
+}
+#hero3{
+    background: linear-gradient(rgba(0, 0, 0, 0.644),rgba(5, 5, 5, 0.418)), url(/tesla.jpg) center/cover no-repeat;
+height: 350px;   
+}
+#feature img{
+height: 300px;
+object-fit: cover;
+}
